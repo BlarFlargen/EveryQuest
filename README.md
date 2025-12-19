@@ -1,3 +1,5 @@
+This is a fork of NethanosGit's Everyquest
+
 GUIDE FOR INSTALLATION
 
 1. Download the addons from GitHub.
