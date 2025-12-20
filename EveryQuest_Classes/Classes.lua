@@ -271,6 +271,7 @@ EveryQuestData["Classes"] = {
 		{ ["id"] = 1789,["n"] = "The Symbol of Life",["r"] = 12,["s"] = 1,["c"]="PALADIN"},
 		{ ["id"] = 1790,["n"] = "The Symbol of Life",["r"] = 12,["s"] = 1,["c"]="PALADIN"},
 		{ ["id"] = 1806,["n"] = "The Test of Righteousness",["l"] = 22,["r"] = 20,["s"] = 1,["c"]="PALADIN"},
+		{ ["id"] = 1641,["n"] = "The Tome of Divinity",["r"] = 12,["s"] = 1,["c"]="PALADIN"},
 		{ ["id"] = 1642,["n"] = "The Tome of Divinity",["r"] = 12,["s"] = 1,["c"]="PALADIN"},
 		{ ["id"] = 1643,["n"] = "The Tome of Divinity",["r"] = 12,["s"] = 1,["c"]="PALADIN"},
 		{ ["id"] = 1644,["n"] = "The Tome of Divinity",["r"] = 12,["s"] = 1,["c"]="PALADIN"},
@@ -316,6 +317,7 @@ EveryQuestData["Classes"] = {
 		{ ["id"] = 1653,["n"] = "The Test of Righteousness",["r"] = 20,["s"] = 1,["t"] = 81,["c"]="PALADIN"},
 		{ ["id"] = 1654,["n"] = "The Test of Righteousness",["l"] = 22,["r"] = 20,["s"] = 1,["t"] = 81,["c"]="PALADIN"},
 		{ ["id"] = 9737,["n"] = "True Masters of the Light",["r"] = 60,["s"] = 2,["t"] = 81,["c"]="PALADIN"},
+		{ ["id"] = 4486,["n"] = "The Tome of Nobility",["r"] = 40,["s"] = 1,["c"]="PALADIN"},
 	},
 	[-262] = {
 		{ ["id"] = 10072,["n"] = "Well Watcher Solanian",["l"] = 2,["r"] = 2,["s"] = 2,["c"]="PRIEST"},

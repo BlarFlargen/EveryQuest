@@ -162,6 +162,7 @@ EQ_zones = { -- Dropdown Zone list
 		{2717, BZ["Molten Core"]},
 		{3456, BZ["Naxxramas"]},
 		{2159, BZ["Onyxia's Lair"]},
+		{4987, BZ["The Ruby Sanctum"]},
 		{3429, BZ["Ruins of Ahn'Qiraj"]},
 		{4075, BZ["Sunwell Plateau"]},
 		{3428, BZ["Temple of Ahn'Qiraj"]},

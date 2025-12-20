@@ -148,6 +148,10 @@ EveryQuestData["Raids"] = {
 	[2159] = {
 		{ ["id"] = 7509,["n"] = "The Forging of Quel'Serrar",["l"] = 60,["r"] = 60,["s"] = 3,["t"] = 62,["rn"]="Dire Maul"},
 	},
+	[4987] = {
+		{ ["id"] = 26013,["n"] = "Assault on the Sanctum",["l"] = 80,["r"] = 80,["s"] = 3,["t"] = 62,["rn"]="The Ruby Sanctum"},
+		{ ["id"] = 26034,["n"] = "Thw Twilight Destroyer",["l"] = 80,["r"] = 80,["s"] = 3,["t"] = 62,["rn"]="The Ruby Sanctum"},
+	}
 	[3429] = {
 		{ ["id"] = 8700,["n"] = "Band of Unending Life",["l"] = 60,["r"] = 60,["s"] = 3,["t"] = 62,["rn"]="Ruins of Ahn'Qiraj"},
 		{ ["id"] = 8699,["n"] = "Band of Vaulted Secrets",["l"] = 60,["r"] = 60,["s"] = 3,["t"] = 62,["rn"]="Ruins of Ahn'Qiraj"},
