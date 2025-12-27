@@ -2,7 +2,7 @@
 ## Title: EveryQuest [Eastern Kingdoms Quests]
 ## Notes: Contains a list of Eastern Kingdoms quests for use with EveryQuest.
 ## Author: kandarz
-## Version: 2.4
+## Version: 2.5
 ## LoadOnDemand: 1
 
 Eastern_Kingdoms.lua

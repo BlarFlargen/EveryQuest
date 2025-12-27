@@ -2,7 +2,7 @@
 ## Title: EveryQuest [Kalimdor Quests]
 ## Notes: Contains a list of Kalimdor quests for use with EveryQuest.
 ## Author: kandarz
-## Version: 2.4
+## Version: 2.5
 ## LoadOnDemand: 1
 
 Kalimdor.lua

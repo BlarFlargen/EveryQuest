@@ -2,7 +2,7 @@
 ## Title: EveryQuest [Battleground Quests]
 ## Notes: Contains a list of battleground quests for use with EveryQuest.
 ## Author: kandarz
-## Version: 2.4
+## Version: 2.5
 ## LoadOnDemand: 1
 
 Battlegrounds.lua

@@ -2,6 +2,6 @@
 ## Title: EveryQuest [Class Quests]
 ## Notes: Contains a list of class quests for use with EveryQuest.
 ## Author: kandarz
-## Version: 2.4
+## Version: 2.5
 
 Classes.lua

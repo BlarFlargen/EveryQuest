@@ -2,7 +2,7 @@
 ## Title: EveryQuest [Dungeons Quests]
 ## Notes: Contains a list of dungeon quests for use with EveryQuest.
 ## Author: kandarz
-## Version: 2.4
+## Version: 2.5
 ## LoadOnDemand: 1
 
 Dungeons.lua
